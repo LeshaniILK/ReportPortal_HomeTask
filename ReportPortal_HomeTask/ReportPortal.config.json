@@ -1,0 +1,15 @@
+﻿{
+  "enabled": true,
+  "server": {
+    "url": "https://demo.reportportal.io/api/v1",
+    "project": "leshaniilk_personal",
+    "authentication": {
+      "uuid": "850bcf61-12cc-43f2-9887-5d8fef54f5dc"
+    }
+  },
+  "launch": {
+    "name": "API Testing",
+    "description": "Test report portal using Get method",
+    "debugMode": false
+  }
+}
